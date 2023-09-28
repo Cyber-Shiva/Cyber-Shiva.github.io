@@ -1,17 +1,19 @@
-# Welcome to MkDocs Чередниченко
+# Евгений, это док-эз-код
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Я установил Питон и установил MKDocs <br>
+Создал репозиторий на GitHub с привязкой к github.io <br>
+Создал на нубуке папку, в которой планирую создавать документы <br>
 
-## Commands
+<img src="https://author.today/content/2019/07/25/4daf630bb019404391924a5867fbd571.jpg" />
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Сборка сайта
 
-## Project layout
+* Я пилю файлики формата .md в MS VS Code.
+* Собираю сайт с помощью MKDocs сначала локально на нубуке.
+* Если все ок, то конвертирую в статический сайт .html
+* Отправляю в репозиторий на GitHub — пушу, гит пуш короче
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Как это выглядит
+
+Да вот так:
+<img src="img/how_it_looks.png" />
