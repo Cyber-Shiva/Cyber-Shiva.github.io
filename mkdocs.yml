@@ -1,9 +1,20 @@
-site_name: ReviMotion
+site_name: Revi Справка
+
 theme:
   name: 'material'
   feature:
     - 'disqus'
+    - navigation.instant
   extras:
     - 'sidebar-nav'
-Home: index.md
-About: about.md
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: img
+          class: img
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      guess_lang: false
+      
+      
+
