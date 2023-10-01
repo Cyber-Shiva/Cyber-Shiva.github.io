@@ -16,4 +16,4 @@
 ## Как это выглядит
 
 Да вот так:
-<img src="img/how_it_looks.png" />
+<img src="revi-motion-animated.webp" />

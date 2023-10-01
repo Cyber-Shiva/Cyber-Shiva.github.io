@@ -1,3 +1,9 @@
-site_name: My Docs
+site_name: ReviMotion
+theme:
+  name: 'material'
+  feature:
+    - 'disqus'
+  extras:
+    - 'sidebar-nav'
 Home: index.md
 About: about.md
